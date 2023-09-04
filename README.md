@@ -1,2 +1,1 @@
-# GBDT-Jevil
-This is a gameboy version of the jevil fight
+Made in GB studio by Henri or McKid
